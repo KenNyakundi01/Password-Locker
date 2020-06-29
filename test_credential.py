@@ -55,7 +55,6 @@ class TestCredential(unittest.TestCase):
             self.new_credential.save_credential()
             test_credential = Credential("username","websitename","passcode")
             test_credential.save_credential()
-
             self.new_credential.delete_credential()# Deleting a credential object
             self.assertEqual(len(Credential.credential_list),1)
 

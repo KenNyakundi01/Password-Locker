@@ -31,6 +31,7 @@ class User:
         for user in cls.user_list:
             if user.username == name:
                 return user
+                
     @classmethod
     def user_exist(cls, name):
         '''

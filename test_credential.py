@@ -2,7 +2,6 @@ import unittest
 from credential import Credentials # Importing the credential class
 
 class TestCredential(unittest.TestCase):
-
     '''
     Test class that defines test cases for the credential class behaviours.
 

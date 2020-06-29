@@ -10,6 +10,6 @@ To set up, You clone the repository in your computer and navigate into the file 
 
 Python
 
-# Author
+## Author
 
 Ken Nyakundi

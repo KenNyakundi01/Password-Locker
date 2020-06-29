@@ -3,7 +3,6 @@ class User:
     This is the user class where the user is persisted to disk in a plain file
     '''
     user_list = []  # empty user list
-
     def __init__(self, username, password):
         '''
         __init__ method that helps us define properties for our objects

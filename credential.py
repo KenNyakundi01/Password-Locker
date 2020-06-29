@@ -1,6 +1,6 @@
 class Credentials:
     """
-    Class that generates new instances of contacts
+    Class that generates new instances of credential
     """
     credential_dict = []
 

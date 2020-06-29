@@ -8,6 +8,7 @@ To set up, You clone the repository in your computer and navigate into the file 
 
 ## Technologies used 
 
+
 Python
 
 ## Author

@@ -14,7 +14,6 @@ class TestCredential(unittest.TestCase):
         Set up method to run before each test cases.
         '''
         self.new_credential = Credential("username","websitename","passcode") 
-
     def test_init(self):
         '''
         test_init test case to test if the object is initialized properly

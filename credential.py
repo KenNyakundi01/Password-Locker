@@ -12,7 +12,8 @@ class Credentials:
         self.last_name = last_name
         self.phone_number = number
         self.email = email
-         @classmethod
+
+    @classmethod
     def find_credential(cls, cred_name):
         '''
         find_credential: Method that checks if a credential exists
